@@ -1,6 +1,6 @@
 # 👨‍💻 David Vélez Pérez
 
-### Desarrollador Frontend  | Especialista en Bases de Datos Relacionales
+### Desarrollador Frontend | Especialista en Bases de Datos Relacionales
 
 ¡Hola! 👋 Soy un **desarrollador frontend** apasionado por el diseño funcional, la optimización de interfaces y la creación de experiencias de usuario atractivas.  
 Me considero una persona **seria, carismática, enfocada e inteligente**, con gran compromiso por la calidad del código y la mejora continua.
@@ -33,24 +33,35 @@ Me considero una persona **seria, carismática, enfocada e inteligente**, con gr
 
 ## 📊 Estadísticas de GitHub
 
-## Estadísticas de GitHub
+### 📈 Actividad General
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=david-vlez&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidvlez&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=david-vlez&layout=compact&theme=default)
+### 💡 Lenguajes Más Usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidvlez&layout=compact&theme=radical)
+
+### 🔥 Racha de Contribuciones
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidvlez&theme=radical)
+
+### 📦 Repositorios Destacados
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidvlez&repo=portfolio-web&theme=radical)](https://github.com/davidvlez/portfolio-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidvlez&repo=frontend-projects&theme=radical)](https://github.com/davidvlez/frontend-projects)
 
 ---
 
 ## 🧠 Datos Generales de Contribución
 
-- 🔸 **Commits totales (último año):** Más de *X* contribuciones  
-- 📦 **Repositorios públicos:** *X*  
-- 🧩 **Repositorios privados:** *X*  
-- 🌍 **Proyectos colaborativos:** *X*  
+- 🔸 **Commits totales (último año):** Actualizados dinámicamente  
+- 📦 **Repositorios públicos:** Se muestran automáticamente  
+- 🧩 **Repositorios privados:** Incluidos en las estadísticas totales  
+- 🌍 **Proyectos colaborativos:** En desarrollo constante  
 - 🕒 **Horas activas de desarrollo:** Principalmente entre semana  
 - 💬 **Lenguajes preferidos:** JavaScript, HTML5, CSS3, SQL  
 
-*(Los valores se actualizarán automáticamente según tu actividad en GitHub.)*
+*(Los valores se actualizan automáticamente según tu actividad en GitHub.)*
 
 ---
 
@@ -68,9 +79,9 @@ Me considero una persona **seria, carismática, enfocada e inteligente**, con gr
 
 ### 🧷 Badges Extras
 
-![Profile Views](https://komarev.com/ghpvc/?username=David-Vlez&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/David-Vlez?style=social)
-![Stars](https://img.shields.io/github/stars/David-Vlez?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=davidvlez&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/davidvlez?style=social)
+![Stars](https://img.shields.io/github/stars/davidvlez?style=social)
 ![Repos](https://img.shields.io/badge/Repositorios-Activos-brightgreen)
 
 ---
