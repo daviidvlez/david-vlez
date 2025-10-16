@@ -78,9 +78,9 @@ Me considero una persona **seria, carismática, enfocada e inteligente**, con gr
 
 ### 🧷 Badges Extras
 
-![Profile Views](https://komarev.com/ghpvc/?username=DavidVlez&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/DavidVlez?style=social)
-![Stars](https://img.shields.io/github/stars/DavidVlez?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=David_Vlez&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/David_Vlez?style=social)
+![Stars](https://img.shields.io/github/stars/David_Vlez?style=social)
 ![Repos](https://img.shields.io/badge/Repositorios-Activos-brightgreen)
 
 ---
