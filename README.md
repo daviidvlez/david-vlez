@@ -35,15 +35,15 @@ Me considero una persona **seria, carismática, enfocada e inteligente**, con gr
 
 ### 📈 Actividad General
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidVlez&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ### 💡 Lenguajes Más Usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVlez&layout=compact&theme=radical)
 
 ### 🔥 Racha de Contribuciones
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidVlez&theme=radical)
 
 ### 📦 Repositorios Destacados
 
@@ -78,9 +78,9 @@ Me considero una persona **seria, carismática, enfocada e inteligente**, con gr
 
 ### 🧷 Badges Extras
 
-![Profile Views](https://komarev.com/ghpvc/?username=David_Vlez&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/David_Vlez?style=social)
-![Stars](https://img.shields.io/github/stars/David_Vlez?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=David-Vlez&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/David-Vlez?style=social)
+![Stars](https://img.shields.io/github/stars/David-Vlez?style=social)
 ![Repos](https://img.shields.io/badge/Repositorios-Activos-brightgreen)
 
 ---
