@@ -1,6 +1,6 @@
 # 👨‍💻 David Vélez Pérez
 
-### Desarrollador Frontend | Especialista en Bases de Datos Relacionales
+### Desarrollador Frontend  autodidacta| Especialista en Bases de Datos Relacionales
 
 ¡Hola! 👋 Soy un **desarrollador frontend** apasionado por el diseño funcional, la optimización de interfaces y la creación de experiencias de usuario atractivas.  
 Me considero una persona **seria, carismática, enfocada e inteligente**, con gran compromiso por la calidad del código y la mejora continua.
