@@ -1,66 +1,87 @@
 # 👨‍💻 David Vélez Pérez
 
-### Desarrollador Frontend | Modelador de Bases de Datos Relacionales  
+### Desarrollador Frontend  | Especialista en Bases de Datos Relacionales
 
-Soy un **desarrollador frontend** apasionado por la tecnología, con habilidades en el desarrollo de interfaces modernas, funcionales y adaptativas.  
-Mi trabajo se centra en la **creación de soluciones web eficientes**, aplicando las mejores prácticas de diseño, programación y optimización de código.  
-Cuento con experiencia en **JavaScript, HTML y CSS**, así como en la **modelación y gestión de bases de datos relacionales** con **MySQL** y **PostgreSQL**.  
-Además, manejo distintos **frameworks** orientados al desarrollo frontend, buscando siempre escribir un código limpio, escalable y de alto rendimiento.  
+¡Hola! 👋 Soy un **desarrollador frontend** apasionado por el diseño funcional, la optimización de interfaces y la creación de experiencias de usuario atractivas.  
+Me considero una persona **seria, carismática, enfocada e inteligente**, con gran compromiso por la calidad del código y la mejora continua.
 
 ---
 
 ## 🚀 Tecnologías y Herramientas
 
-- 💻 **Frontend:** HTML5 | CSS3 | JavaScript (ES6+)  
-- ⚙️ **Frameworks:** React | Bootstrap | Tailwind CSS  
-- 🗄️ **Bases de Datos:** MySQL | PostgreSQL | Modelado Relacional | Consultas SQL  
-- 🧩 **Herramientas:** Git | GitHub | Visual Studio Code  
-- 🎨 **Diseño y UI:** Figma | Canva  
-- 🧠 **Metodologías:** Desarrollo Ágil | Control de Versiones | Buenas Prácticas de Código  
+### 💻 Frontend
+- **Lenguajes:** JavaScript (JS), HTML5, CSS3  
+- **Frameworks y Librerías:** Bootstrap, TailwindCSS, React (en aprendizaje)
+- **Diseño Responsivo:** Uso de Flexbox, Grid y principios de UI/UX
+
+### 🗄️ Bases de Datos
+- **Modelado de Bases de Datos Relacionales**
+- **Motores de Base de Datos:** MySQL, PostgreSQL
+- **Consultas SQL:** Diseño, normalización y optimización de estructuras de datos
 
 ---
 
-## 💼 Enfoque Profesional
+## 🧩 Habilidades Clave
 
-- Desarrollo de **interfaces web dinámicas, responsivas y accesibles**.  
-- Implementación de **componentes reutilizables y escalables**.  
-- Modelación y normalización de **bases de datos relacionales**.  
-- Integración de **frontend con APIs RESTful** y servicios externos.  
-- Optimización de rendimiento y experiencia de usuario (UX/UI).  
-- Aplicación de **frameworks modernos** para agilizar procesos de desarrollo.  
-
----
-
-## 📊 Estadísticas de GitHub  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidvlez&show_icons=true&theme=tokyonight&count_private=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidvlez&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=davidvlez&theme=tokyonight&hide_border=false)  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=davidvlez&theme=dracula&no-frame=true&margin-w=10)
-
-</div>
-
+- Desarrollo de interfaces limpias y funcionales  
+- Documentación técnica y estructurada  
+- Trabajo en equipo con metodologías ágiles (Scrum)  
+- Mantenimiento y mejora continua de aplicaciones web  
+- Adaptabilidad y aprendizaje rápido  
 
 ---
 
-## 🎯 Objetivo Profesional
+## 📊 Estadísticas de GitHub
 
-Consolidarme como un **desarrollador frontend especializado**, aplicando mis conocimientos en programación, modelación de datos y frameworks modernos para crear soluciones digitales innovadoras, seguras y eficientes.
+### 📈 Actividad General
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+### 💡 Lenguajes Más Usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+
+### 🔥 Racha de Contribuciones
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical)
+
+### 📦 Repositorios Destacados
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=nombre-del-repositorio&theme=radical)](https://github.com/TU_USUARIO/nombre-del-repositorio)
+
+---
+
+## 🧠 Datos Generales de Contribución
+
+- 🔸 **Commits totales (último año):** Más de *X* contribuciones  
+- 📦 **Repositorios públicos:** *X*  
+- 🧩 **Repositorios privados:** *X*  
+- 🌍 **Proyectos colaborativos:** *X*  
+- 🕒 **Horas activas de desarrollo:** Principalmente entre semana  
+- 💬 **Lenguajes preferidos:** JavaScript, HTML5, CSS3, SQL  
+
+*(Los valores se actualizarán automáticamente según tu actividad en GitHub.)*
 
 ---
 
 ## 📫 Contacto
 
-- 🌐 **GitHub:** [github.com/tu-usuario](https://github.com/tu-usuario)  
-- 📧 **Correo:** tu.correo@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
+- **Correo:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
+- **LinkedIn:** [linkedin.com/in/davidvelez](https://linkedin.com/in/davidvelez)  
+- **Portafolio Web:** [tuportafolio.com](https://tuportafolio.com)
 
 ---
 
-> _“El código no solo debe funcionar; debe ser claro, mantenible y escalable.”_  
-> — **David Vélez Pérez**
+> 💡 *"El código bien estructurado no solo funciona, también se entiende."*
+
+---
+
+### 🧷 Badges Extras
+
+![Profile Views](https://komarev.com/ghpvc/?username=Davidvlez&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/Davidvlez?style=social)
+![Stars](https://img.shields.io/github/stars/Davidvlez?style=social)
+![Repos](https://img.shields.io/badge/Repositorios-Activos-brightgreen)
+
+---
+
