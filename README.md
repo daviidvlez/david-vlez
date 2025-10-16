@@ -35,9 +35,9 @@ Me considero una persona **seria, carismática, enfocada e inteligente**, con gr
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=davidvlez&show_icons=true&theme=default)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=david-vlez&show_icons=true&theme=default)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=davidvlez&layout=compact&theme=default)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=david-vlez&layout=compact&theme=default)
 
 ---
 
