@@ -35,15 +35,15 @@ Me considero una persona **seria, carismática, enfocada e inteligente**, con gr
 
 ### 📈 Actividad General
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidVlez&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-vlez&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ### 💡 Lenguajes Más Usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVlez&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-vlez&layout=compact&theme=radical)
 
 ### 🔥 Racha de Contribuciones
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidVlez&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=david-vlez&theme=radical)
 
 ### 📦 Repositorios Destacados
 
