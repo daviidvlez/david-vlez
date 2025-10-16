@@ -45,6 +45,7 @@ Además, manejo distintos **frameworks** orientados al desarrollo frontend, busc
 
 </div>
 
+
 ---
 
 ## 🎯 Objetivo Profesional
